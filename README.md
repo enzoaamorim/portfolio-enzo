@@ -1,47 +1,41 @@
-# Portfólio | Enzo Angelin Amorim
+<div align="center">
 
-Portfólio pessoal desenvolvido para apresentar minha trajetória, experiências, habilidades e projetos na área de Tecnologia da Informação.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Portfólio%20Pessoal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-O objetivo deste projeto é reunir, de forma simples e profissional, informações sobre minha formação em Análise e Desenvolvimento de Sistemas, minha experiência com suporte técnico em TI e minha evolução como desenvolvedor.
+# Enzo Angelin Amorim
+
+![HTML](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
 
 ## Sobre o projeto
 
-Este portfólio foi desenvolvido com foco em uma interface limpa, responsiva e objetiva, evitando excesso de elementos visuais e priorizando uma boa apresentação profissional.
+Este é meu portfólio pessoal, desenvolvido para apresentar minha trajetória, experiências, habilidades e projetos na área de **Tecnologia da Informação**.
 
-Nele estão disponíveis informações como:
+O projeto tem como objetivo reunir, de forma simples e profissional, informações sobre minha formação em **Análise e Desenvolvimento de Sistemas**, minha experiência com **suporte técnico em TI** e minha evolução na área de **desenvolvimento web**.
 
-- Perfil profissional
-- Experiência na área de TI
-- Habilidades técnicas
-- Certificações e qualificações
-- Projetos desenvolvidos
-- Links para contato profissional
+---
+
+## Acesse o projeto
+
+<div align="center">
+
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portfólio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0F172A)](https://portfolio-eaa.vercel.app)
+
+</div>
+
+---
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsividade com CSS
-- Estrutura de site estático
-
-## Projetos em destaque
-
-### Controle Financeiro
-
-Aplicação desenvolvida para auxiliar no controle de gastos e rendas, com organização de movimentações, filtros e interface simples para facilitar o acompanhamento financeiro.
-
-### TicketGol
-
-Projeto acadêmico desenvolvido com foco em organização de layout, estruturação de páginas e aplicação de conhecimentos em desenvolvimento web.
-
-Repositório:  
-https://github.com/MicaelCadete/ticketgol
-
-### Committers
-
-Projeto de e-commerce acadêmico, utilizando tecnologias web e organização de produtos em uma interface voltada para apresentação e navegação.
-
-### Sistema Padaria
-
-Projeto de estudos voltado para um sistema de vendas de uma padaria, com foco em lógica, organização e estrutura de aplicação.
+```txt
+HTML5
+CSS3
+JavaScript
+Vercel
+GitHub
